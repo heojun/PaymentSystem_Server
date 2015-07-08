@@ -1,0 +1,11 @@
+{
+	"author": "Heo Jun",
+	"name": "censortext",
+	"version": "0.0.1",
+	"description": "censor word",
+	"main": "censortext",
+	"dependencies": {},
+	"engines": {
+		"node": "*"
+	}
+}
