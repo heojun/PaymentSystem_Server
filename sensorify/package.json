@@ -4,6 +4,11 @@
 	"version": "0.0.1",
 	"description": "censor word",
 	"main": "censortext",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/heojun/PaymentSystem_Server/tree/master/sensorify"
+	},
+	"keyword": ["censor", "words"],
 	"dependencies": {},
 	"engines": {
 		"node": "*"
